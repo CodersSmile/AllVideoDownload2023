@@ -1,0 +1,496 @@
+<resources>
+    <string name="app_name">All Video Downloader 2023</string>
+    <string name="privacypolicy" >Posting rules you should be taking care of before you start interaction on our website/application:
+    \n\nAssuring you carry the rights and eligibility to post any form of content you are about to share. We never permit nudism on application/website. We won\'t allow posting of sexually explicit content, sexually explicit text, images, or audio content depicting extreme sexual acts such as acts of posting Content that drives traffic to pornographic online services. Please note that we may make exceptions based on artistic, educational, historical, documentary, or scientific nature, or where there are other considerable benefits to the public at large.
+    \n\nWe don\'t permit encouragement or applaud towards terrorism, formed crime scenes or hate association groups on our application/website. Attempting to sell sexual services or weapons and harmful drugs are also not permitted. We will remove reasonable threats of severity, hate arousing content/speech and the intentionally pointing of private individuals. We do not permit attacks/abuse based on skin colour, native, sex, gender, gender identity, sexual orientation, religion, disability or disease.
+    \n\nGraphic violence is not allowed and we may remove videos or images of intense, graphic violence to make sure our application/website stays appropriate for everyone.
+        \n\nIf anyone or any account is spotted doing the above restricted activities they can be booked and arrested for the same. If viewers spot any violations of the above rules they have the right to report the content to us by using the report feature given in our application/ website.\n\n</string>
+
+    <string name="or">OR</string>
+    <string name="AvailableFiles">Available Files</string>
+    <string name="Close">Close</string>
+    <string name="getting_downloading_link">Getting Downloading Link...</string>
+    <string name="download_started">Download Started</string>
+    <string name="share_txt">Hey view/download this image</string>
+    <string name="share_image_via">Share File via...</string>
+    <string name="whatsapp_not_installed">Whatsapp not installed.</string>
+    <string name="no_app_installed">No application found to open this file.</string>
+    <string name="share_app_message">Download All Videos using this app. Download Now</string>
+    <string name="app_not_available">App Not Available.</string>
+    <string name="ok">OK</string>
+    <string name="allow_whatsapp_access">Allow Whatsapp Access</string>
+    <string name="allow_app_to_access_whatsapp_status_folder">This will let status access current and future content stored in .statuses.</string>
+
+    <string name="if_you_like_this_app_than_don_t_forget_to_rate_this_app_it_won_t_take_more_than_minutes">If you Like this app than don\'t forget to rate and share this App. It won\'t take more than minutes</string>
+
+    <string name="saved_to">Saved to</string>
+    <string name="wrong_folder">Wrong folder</string>
+    <string name="selected_wrong_folder">Selected wrong folder</string>
+    <string name="cancelany">No Commitment, Cancel anytime</string>
+    <string name="pp">Our Pricing Plans</string>
+    <string name="subscription_auto_renews">Subscription auto- renews</string>
+    <string name="buy_now">Buy \n Now</string>
+    <string name="nextupdate">Coming Soon...\nwill released in next Update</string>
+    <string name="how_to_download">How to Download</string>
+
+    <string name="favorites">Favorites</string>
+    <string name="home">Home</string>
+    <string name="home1">Enter URL</string>
+    <string name="alldownloader">All\nDownloader</string>
+    <string name="see_more"><u>See more</u></string>
+    <string name="album">Albums</string>
+    <string name="images">Images</string>
+    <string name="explore">Explore</string>
+    <string name="videos">Videos</string>
+    <string name="Download">Download</string>
+    <string name="download_complete">Download Completed</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+
+    <string name="Wait">Wait</string>
+    <string name="FileDownloadstarted">File Download Started</string>
+    <string name="NoUrlFound">No Url Found</string>
+    <string name="index_page">file:///android_asset/index.html</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="paste_link">Paste Link Here</string>
+
+
+    <string name="see_all">
+        <u>See All</u>
+    </string>
+    <string name="skip_button"><u>Skip</u></string>
+    <string name="music">Videos</string>
+    <string name="files">Files</string>
+    <string name="unknown">Unknown</string>
+    <string name="top_10_playlist">Recent Videos</string>
+    <string name="error_happened">Token has been expired!!!</string>
+    <string name="top_100_playlist">All Videos</string>
+    <string name="playing_now">Playing now</string>
+
+
+    <string name="title_activity_scroll__download">Scroll_Download</string>
+    <string name="downloads_found">Songs Found..!\n
+        Click on the DOWNLOAD SONGS button to open download page</string>
+    <string name="downloads_not_founds">Sorry No Downloads found Here.\n
+        Select a Song, Album or a Playlist to fetch songs</string>
+    <string name="action_settings">Settings</string>
+    <string name="FailedJson">
+    {
+   "title":"FAILED",
+   "name":"FAILED",
+   "year":"FAILED",
+   "release_date":"FAILED",
+   "primary_artists":"FAILED",
+   "primary_artists_id":"",
+   "albumid":"",
+   "perma_url":"",
+   "image":"FAILED",
+   "songs":[
+      {
+         "id":"FAILED",
+         "type":"",
+         "song":"FAILED",
+         "album":"FAILED",
+         "year":"FAILED",
+         "music":"FAILED",
+         "primary_artists":"FAILED",
+         "featured_artists":"",
+         "featured_artists_id":"",
+         "singers":"FAILED",
+         "starring":"",
+         "image":"FAILED",
+         "duration":"000",
+
+      }]}
+    </string>
+    <string name="ad_id">ca-app-pub-7700991162542555~7472979964</string>
+    <string name="server_constants">nitish.build.com.saavntest1_server_constants</string>
+    <string name="sc_thope">nitish.build.com.saavntest1_sc_thopu</string>
+    <string name="pref_main">nitish.build.com.saavntest1_main_sp</string>
+    <string name="pref_counter">nitish.build.com.saavntest1_counter</string>
+    <string name="pref_counter1">nitish.build.com.saavntest1_counter_one</string>
+    <string name="pref_JsonFromID">nitish.build.com.saavntest1_JsonFromID</string>
+    <string name="pref_search_counter">nitish.build.com.saavntest1_search_counter</string>
+    <string name="pref_inqueue">nitish.build.com.saavntest1_inqueue</string>
+    <string name="pref_update">nitish.build.com.saavntest1_update</string>
+
+    <string name="set_main">nitish.build.com.saavntest1_settings_preferences</string>
+    <string name="set_kbps">nitish.build.com.saavntest1_set_kbps</string>
+    <string name="set_format">nitish.build.com.saavntest1_set_format</string>
+    <string name="set_AlbumArt">nitish.build.com.saavntest1_set_AlbumArt</string>
+    <string name="set_Directory">nitish.build.com.saavntest1_defDirectory</string>
+    <string name="set_subFolders">nitish.build.com.saavntest1_sub_folders</string>
+    <string name="set_audioTagging">nitish.build.com.saavntest1_audio_tagging</string>
+    <string name="set_defFN_code">nitish.build.com.saavntest1_def_FN_code</string>
+    <string name="set_del_aA">nitish.build.com.saavntest1_set_del_aA</string>
+
+
+    <string name="albumart_settings_page">(This feature is only for Android Oreo and Above) \n
+        When enabled it hides \"albumArt.jpg\" files. So that they wont annoy you by appearing in Galley. \n
+        [Please turn off , if your music player doesn\'t recognize AlbumArt]</string>
+    <string name="delete_albumart_settings">Enabling this will automatically deletes the \"albumArt.jpg\" files after usage. \n
+    [Please turn off , if your music player doesn\'t recognize AlbumArt]</string>
+    <string name="downloads_page">Note : If your Download got stuck up in Middle.\n
+                        Please Force Close the app and try downloading again.\n
+                        Also check weather you have given all Permissions or not.\n
+                        I will fix this issue in next release.</string>
+    <string name="under_construction">Streaming is disabled in this build due to few unknown bugs. \n
+        It will be enabled in the next update, which will be released soon.</string>
+    <string name="searchPage"><b><u>Instructions:</u></b>\n
+        Use the above <b>Search bar</b> to Search songs and the results appear here.\n
+        Use <b>Browse tab</b> to browse songs directly from Saavn web UI.\n
+        All downloaded songs will be saved to  <b>All Video Downloader &amp; Saver_DOWNLOADS</b> folder.\n
+        Check out   <b>Downloads</b>   and   <b>More page</b>   for further info.</string>
+    <string name="setting_subfolders">Enabling this will store the downloaded music files in separate folders,
+    named as per their Album name</string>
+    <string name="settings_audio_tagging">[Only for Android Oreo and Above]Try disabling this if you encounter random force closes in the app while downloading.</string>
+    <string name="settings_lyrics_download">Enabling this will save .lrc files when ever possible to reduce loading time for
+        future playbacks.</string>
+    <string name="settings_autochaching">[Experimental]This will temporarily store the required audio data locally to reduce
+        buffer time during the next playback. However, this might occupy some of your internal storage space. </string>
+
+    <string name="more_page">Note : This is a initial release of the app. So its common to have Bugs and Lags in the app.
+        For further development of the app please report the bugs you find.</string>
+    <string name="get_intouch">Want to get in touch with me ? (Click here)</string>
+    <string name="more_telegram">Click here to join our Telegram Group</string>
+    <string name="star_github">Give me a Star(⭐) on GitHub</string>
+    <string name="more_faqs">Read FAQ\'s here...</string>
+    <string name="more_disclaimer">Read Disclaimer</string>
+    <string name="more_page_ClickText">Click here to Report a Bug or Suggest a feature.(use Gmail)</string>
+    <string name="more_page_Disclaimer">Downloading Copyrighted music might be illegal in Some countries.\n
+    © All Songs,images and Saavn™ belongs to JioSaavn.</string>
+    <string name="madeBy">by <b>IDE</b></string>
+    <string name="but_me_coffee">I am an undergraduate student who enjoys making these kinds of
+        projects in free time.\n
+        You can encourage me by buying me a coffee which motivates me to work consistently on this project and
+        provide you regular updates with awesome new features.\n
+        <b>I need your support to keep the app going forward.</b>
+    </string>
+    <string name="thank_you">Thank you for showing your love towards the app.\nEnjoy the complete <b>Ad-free experience</b>.</string>
+    <string name="still_ads">Report here if you are still getting ads with in the app.(use G-Mail)</string>
+
+    <string name="browse_coffee">Like my work?\nConsider Buying me a Coffee</string>
+    <string name="playstore_link">https://play.google.com/store/apps/details?id=com.music.galleryvideos.connectallstranger</string>
+    <string name="change_log">test</string>
+
+
+    <string name="welcome">Welcome to Gallery App</string>
+    <string name="signin">SIGNIN</string>
+    <string name="emailidphone">Enter Email-Id/ Phone Number</string>
+    <string name="enterpass">Enter Password</string>
+    <string name="confirmpass">Confirm Password</string>
+    <string name="createpass">Create Password</string>
+    <string name="forgot_password"><u>Forgot Password ?</u></string>
+    <string name="forgot_password1"><u>forgot password ?</u></string>
+    <string name="noaccount">Don\'t have any account?</string>
+    <string name="signup">Signup</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="signup1">SIGNUP</string>
+    <string name="ready_to_go_vip">Ready to go VIP</string>
+    <string name="change_password"><u>Change Password</u></string>
+    <string name="deleteaccount"><u>Delete Account</u></string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="save_changes">Save changes</string>
+
+
+    <string name="already_have_any_account">Already have any account?</string>
+    <string name="signinn">Signin</string>
+    <string name="Ads">ADMOB</string>
+    <string name="FB_Banner_Ad_PlacemaneId_1">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+
+    <string name="Permissiondenied">:( Permission denied</string>
+    <string name="Downloads">Downloads</string>
+    <string name="Share">Share App</string>
+    <string name="app_link">https://play.google.com/store</string>
+    <string name="PrivacyPolicy">Privacy Policy</string>
+    <string name="Help">Help - How to use </string>
+    <string name="other_apps">Other Apps</string>
+    <string name="Submitnonworking">Submit non working link</string>
+    <string name="second_how_too">2. Share with All Video Downloader &amp; Saver</string>
+    <string name="or_download_using_copied_link">or Download using copied link</string>
+    <string name="fourth_how_too">2. Open All Video Downloader &amp; Saver</string>
+    <string name="AvailableMedia">Available Media</string>
+    <string name="Title">Title</string>
+    <string name="SizeUnknown">Size : unkown</string>
+    <string name="Preview">Preview</string>
+    <string name="buffering_string">Buffering..</string>
+    <string name="DownloadNow">Download Now</string>
+    <string name="Dismiss">Dismiss</string>
+    <string name="Complete">Complete</string>
+    <string name="Failed">Failed</string>
+    <string name="DownloadingAudio">Downloading Audio</string>
+    <string name="DownloadAudioError">Download Audio Error</string>
+    <string name="Downloadingvideo">Downloading video</string>
+    <string name="DownloadvideoCompleteat">Download video Complete at</string>
+    <string name="DownloadvideoError">Download video Error</string>
+    <string name="CoppingfileError">Copping file Error</string>
+    <string name="DownloadComplete">Download Complete</string>
+    <string name="Checking">Checking...</string>
+    <string name="Pleasewaituntilfirstdownloadcomplete">Please wait until first download complete!</string>
+    <string name="NameYourfile">Name Your file</string>
+    <string name="hithere">hi there</string>
+    <string name="Shareusing">Share using</string>
+    <string name="nav_header_title">Downloads</string>
+    <string name="downloading">Downloading...</string>
+
+
+    <string name="sharechat_app_name">ShareChat</string>
+    <string name="open_sharechat">1. Open ShareChat</string>
+    <string name="cop_link_from_sharechat">1. Copy Video Link from ShareChat</string>
+
+    <string name="roposo_app_name">Roposo</string>
+    <string name="open_roposo">1. Open Roposo</string>
+    <string name="cop_link_from_roposo">1. Copy Video Link from Roposo</string>
+
+    <string name="snack_app_name">Snack Video</string>
+    <string name="open_snack">1. Open Snack Video</string>
+    <string name="cop_link_from_snack">1. Copy Video Link from SnackVideo</string>
+    <string name="no_media_on_snackvideo">Some error occured</string>
+
+    <string name="zili_app_name">Zili Video</string>
+    <string name="open_zili">1. Open Zili Video</string>
+    <string name="cop_link_from_zili">1. Copy Video Link from Zili</string>
+
+    <string name="josh_app_name">Josh</string>
+    <string name="open_josh">1. Open Josh</string>
+    <string name="cop_link_from_josh">1. Copy Video Link from Josh</string>
+
+    <string name="chingari_app_name">Chingari</string>
+    <string name="open_chingari">1. Open Chingari</string>
+    <string name="cop_link_from_chingari">1. Copy Video Link from Chingari</string>
+
+
+    <string name="mitron_app_name">Mitron</string>
+    <string name="open_mitron">1. Open Mitron</string>
+    <string name="cop_link_from_mitron">1. Copy Video Link from Mitron</string>
+    <string name="games">Games</string>
+    <string name="enter_valid_url">Enter Valid Url</string>
+
+
+    <string name="about_content">Version: 1.0\nDeveloped by:-\ncodingdunia2019@gmail.com</string>
+    <string name="aboutInfo">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="insta_app_name">Instagram</string>
+    <string name="insta_tag"><![CDATA[Download Instagram Images & Videos]]></string>
+    <string name="do_u_want_to_download_media_from_pvt">Don\'t Want to Download Media from Private Account?</string>
+    <string name="stories">Stories</string>
+    <string name="no_net_conn">No Internet Connection</string>
+    <string name="downloadin_video">Downloading Video...</string>
+    <string name="open_likee">1. Open Likee</string>
+    <string name="copy_video_link_from_likee">1. Copy Video Link from Likee</string>
+    <string name="open_moj">1. Open Moj</string>
+    <string name="cop_link_from_moj">1. Copy Video Link from Moj</string>
+    <string name="moj_app_name" translatable="false">Moj</string>
+    <string name="whatsapp_app_name">WA &amp; WA Business</string>
+    <string name="no_media_on_tweet">No Media on Tweet or Invalid Link</string>
+    <string name="do_u_want_to_dlt">Do you want to delete?</string>
+    <string name="whatsapp_tag"><![CDATA[Save Whatsapp Status Image & Videos]]></string>
+    <string name="tiktok_app_name">TikTok</string>
+    <string name="tiktok_tag">Download TikTok Videos</string>
+    <string name="likee_app_name">Likee</string>
+    <string name="likee_tag">Download Likee Videos</string>
+    <string name="facebook_app_name">Facebook</string>
+    <string name="fcebook_tag">Download Facebook Videos</string>
+    <string name="twitter_app_name">Twitter</string>
+    <string name="twitter_tag"><![CDATA[Download Twitter Images & Videos]]></string>
+    <string name="open_tiktok">1. Open TikTok</string>
+    <string name="open_twitter">1. Open Twitter</string>
+    <string name="gallery_name">Gallery</string>
+    <string name="gallery_tag">View All Your Downloaded Media</string>
+    <string name="aboutus_name">About Us</string>
+    <string name="aboutus_tag">Know More About App</string>
+    <string name="share_app_name">Share App</string>
+    <string name="share_app_tag">Share App with Your Friends</string>
+    <string name="rate_app_name">Rate App</string>
+    <string name="rate_tag">Show Some Love. Rate on Play Store</string>
+    <string name="more_app_name">More App</string>
+    <string name="more_app_tag">View Our Other Creations</string>
+    <string name="download_from_private_account">Download from Private Account</string>
+    <string name="view_stories">View Stories</string>
+    <string name="login">Login</string>
+    <string name="opn_insta">1. Open Instagram</string>
+    <string name="yes">Yes</string>
+    <string name="mxtakatak_app_name" translatable="false">MX TakaTak</string>
+    <string name="open_mx">1. Open MXTakaTak</string>
+    <string name="cop_link_from_mx">1. Copy Video Link from MXTakaTak</string>
+    <string name="cancel">Cancel</string>
+    <string name="opn_fb">1. Open Facebook</string>
+    <string name="download_stories">Download from Stories</string>
+    <string name="no_result_found">No Result found</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="no">No</string>
+    <string name="file_deleted">File Deleted</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="title1">A friend for you</string>
+    <string name="titleintro1">A audio and video call app where\nyour friends live.</string>
+    <string name="title2">Judgement -free</string>
+    <string name="titleintro2">If you are in a bad mood and need someone to talk\nto, strangers who are ready to be your friends are\nhere for you 24/7 anytime,anywhere.</string>
+    <string name="title3">Celebrate diffrences</string>
+    <string name="titleintro3">We are all different and have our own worries,\ngoals and obstacles share them by chatting with\nstrangers by making them your friends.</string>
+    <string name="profileInfo">Set your profile picture</string>
+    <string name="chooseData">Choose from device</string>
+    <string name="personal_info">Personal Details</string>
+    <string name="enter_name">Enter full name</string>
+    <string name="set_username">Set Username</string>
+    <string name="enter_age">Enter your age</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="enter_gender">Select Your Gender</string>
+    <string name="get_started">Get started</string>
+    <string name="startconversation">Start conversation</string>
+    <string name="startTxt">Connect on video call, Audio call or chat with strangers</string>
+    <string name="profile">Profile</string>
+    <string name="username">Username</string>
+    <string name="fullname">Full name</string>
+    <string name="gender">Gender</string>
+    <string name="age">Age</string>
+    <string name="discard">Discard changes</string>
+    <string name="videocall">Video call</string>
+    <string name="draweropen">Open</string>
+    <string name="drawerclose">Close</string>
+    <string name="header">Live Video Call - Meet\nStrangers</string>
+    <string name="setting">Settings</string>
+    <string name="coins">Coins</string>
+    <string name="pro">Go Pro</string>
+    <string name="moreapp">More Apps</string>
+    <string name="tc"><![CDATA[T&C]]></string>
+    <string name="coin_txt">Coins feature will be shown\nin updated version.</string>
+    <string name="allowNoti">Allow Notification</string>
+    <string name="sound">Sound</string>
+    <string name="vibration">Vibration</string>
+    <string name="donot">Do not disturb</string>
+    <string name="dnd">DND</string>
+    <string name="notification">Notification</string>
+    <string name="advice_1">You need to dress for a video call as you would for an in-person meeting – or as close as possible. We may be working at home, but first impressions still matter. What you wear is nearly as important as what you say. As you are at home, it may be ok to take it down a notch, but not too far. More cashmere sweater than varsity sweatshirt. If you are in any doubt, always dress up, never down. Know that if you are talking with the CEO of a bank, and they expect a tie at all times, you will still need to wear a tie! Dress appropriately professional for the type of video call you are on.</string>
+    <string name="advice_2">In an ideal world, the best room in your house to conduct a video call will also have exceptional lighting. Failing that, cheat. Get two lamps and position them on either side of your desk. That way, your face will be illuminated from both sides, and you will avoid unnatural shadows. Video quality is not always the best, so every trick will help you make a good impression.</string>
+    <string name="advice_3">Position your webcam at eye level or higher. This way, you will look directly into the camera, not down, and look more natural. If this means you need to stack your laptop or screen on some books, do it. Just make sure it is not balanced precariously. You would not want it to fall over mid-video call. Make sure to look at the camera as much as possible or at the screen close to where the camera is. It will appear as direct eye contact. Avoid looking at yourself in the small frame of the corner of your screen.</string>
+    <string name="advice_4">While we do not have much control over audio quality in a video call, you will sound better in a quiet room. Keep in mind that headphones can help you cut ambient noise and ensure you hear what is being said. Remember that if you can not hear the discussion, you will likely answer incorrectly when called on. Make sure your headphone mic is working correctly too. You may need to try a couple of headphones to find the one that has the clearest sound.</string>
+    <string name="advice_5">Look at the background that will be in your video interviews. Is it a direct eyeline to your hamster cage or your bathroom? Both of those are distracting in different ways and will look unprofessional. Avoid that by making sure your background is a plain wall or a more professional looking space. Do not have that option available? If you are on a Zoom call, you can set up a virtual background to display an image as your background during the call. Shutterstock also has several free virtual backgrounds you can download and use.</string>
+    <string name="advice_6">Once you have your set up in place, do a trial run with a friend or family member. Make sure your webcam, microphone, and headphones are working correctly. Make any adjustments you need to in your trial call so you are ready to go when your meeting starts. Make sure you have a good internet connection. If your internet is likely to cut out, make sure no one else in the house is downloading all 16 seasons of Greys Anatomy at the same time as your video call. Do not let your internet connection let you down your preparations. As a courtesy to others, know how to mute your microphone. Unmute yourself quickly when you need to speak and put mute back on afterwards. This will ensure no random outside notices make their way onto your video call.</string>
+    <string name="advice_7">Even though people will only be seeing the top half of your body, you still need to be aware of your body language. Sit up straight in your chair with your feet on the ground. Keep the fidgeting down to a minimum. Know what you look like before you get on the video call – do not check your teeth once you are connected. Do not forget that you are on camera. Part of looking good means acting as you would in person. Pay close attention to your video call settings and the expression on your face. We can all still see you!</string>
+    <string name="advice_8">As with regular meetings, try to clear the room you are in of everything that will distract you. Turn off the radio and TV. Close the door so family/roommates, children or pets do not interrupt you mid-call. But if they do, roll with it as best you can. This is an unusual time, and we are often working in less than ideal home office situations. It may put a smile on a coworkers face to see your cat appear on-screen for a while. If your child needs to know, “Why are we having spaghetti for the third night in a row?” politely excuse yourself out loud, hit mute, and try to come back as quick as possible. Just remember you are still on camera, and the video call is still going.</string>
+    <string name="title_1">Dress appropriately</string>
+    <string name="title_2">Fill your Face with Light</string>
+    <string name="title_3">Raise your Camera</string>
+    <string name="title_4">Find a quiet Place</string>
+    <string name="title_5">Choose a neutral Background</string>
+    <string name="title_6">Check your tech</string>
+    <string name="title_7">Body Language</string>
+    <string name="title_8">Keep clear of Distractions</string>
+    <string name="room1">Room 1(Random)</string>
+    <string name="online">Online : 0</string>
+    <string name="room2">Room 2(Random)</string>
+    <string name="room3">Room 3(only boys)</string>
+    <string name="room4">Room 4(only girls)</string>
+    <string name="audiocall">Audio call</string>
+    <string name="audioTxt">Connect on audio call with strangers</string>
+    <string name="aroom1">Room1</string>
+    <string name="random">Random</string>
+    <string name="aroom2">Room2</string>
+    <string name="aroom3">Room3</string>
+    <string name="aroom4">Room4</string>
+    <string name="onlyboys">Only Boys</string>
+    <string name="onlygirls">Only Girls</string>
+    <string name="proTxt">Premium feature will be shown\nin updated version.</string>
+    <string name="nointernet">Turn on your Internet!</string>
+    <string name="special_case">By pressing the Accept button, I declare I have read and accepted the following condition of use:</string>
+    <string name="info1">Dress\nAppropriately</string>
+    <string name="info2">Fill your Face\nwith Light</string>
+    <string name="info3">Raise your\nCamera</string>
+    <string name="info4">Find a quiet\nPlace</string>
+    <string name="info5">Choose a neutral\nBackground</string>
+    <string name="info6">Check your\Tech</string>
+    <string name="info7">Body\nLanguage</string>
+    <string name="info8">Keep clear of\nDistractions</string>
+
+
+    //Lion
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="suretodelete">Are you sure you want to delete?</string>
+
+
+    <string name="Videos">Videos</string>
+    <string name="Audios">Audios</string>
+    <string name="Images">Images</string>
+
+
+    <string name="MeargingfilesFailed">Mearging files Failed</string>
+    <string name="MeargingfilesPleaseWait">Mearging files Please Wait...</string>
+    <string name="MeargingfilesSuccess">Mearging files Success</string>
+
+
+    <string name="intro_txt_1">Go to website</string>
+    <string name="intro_txt_2">Play Video</string>
+    <string name="intro_txt_3">Click the download button</string>
+    <string name="intro_txt_4">Choose available Video / Audio / Image</string>
+    <string name="intro_txt_5">Choose any file to download</string>
+    <string name="intro_txt_6">Name your file and click on \'Download\'</string>
+    <string name="intro_txt_7">Your download status and progress will show here</string>
+    <string name="intro_txt_8">To find your downloaded files, Click here</string>
+    <string name="intro_txt_9">Here is your all Download Section</string>
+    <string name="intro_txt_10">Here is your downloaded file</string>
+    <!--        <string name="NoUrlFound">No Url Found in you input</string>-->
+
+    <!--     for status saver -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--        <string name="nav_header_title">Status Saver</string>-->
+    <string name="nav_header_subtitle">Version 1.4.3</string>
+    <string name="nav_header_desc">Status Saver</string>
+
+    <string name="menu_home">WhatsApp</string>
+    <string name="menu_gallery">Business WhatsApp</string>
+    <string name="menu_slideshow">GB WhatsApp</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_rate">Rate Us</string>
+
+    <string name="title_activity_base_drawer">Status Saver</string>
+    <string name="statuses_saver">Techvinz</string>
+    <string name="other">Other</string>
+    <string name="action_share">Share</string>
+    <string name="action_info">Info</string>
+    <string name="popup_info"><b>How to Use?</b></string>
+    <string name="v_three">Come Back to this App to see Images/Videos</string>
+    <string name="v_two">Check your WhatsApp stories</string>
+    <string name="v4">Click the save button and the image/video will be instantly saved to your Gallery</string>
+    <string name="v5">If you\'ve checked then, Swipe down to Refresh</string>
+    <string name="send_to">Share Via</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <!--     for status saver Finish -->
+
+    <!--    Add "FACEBOOK" if you want ads from Facebook Audiance Network (default ADMOB ) -->
+    <!--        <string name="Ads">ADMOB</string>-->
+
+    <string name="AdmobPUB_Id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="AdmobBanner_1">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="AdmobBanner_2">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="AdmobBanner_3">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="AdmobBanner_4">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="AdmobBanner_5">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="AdmobInterstitial">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!--    Native Banner Placement ID 1-->
+    <!--        <string name="FB_Banner_Ad_PlacemaneId_1">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>-->
+    <!--    Native Banner Placement ID 2-->
+    <string name="FB_Banner_Ad_PlacemaneId_2">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <!--    Native Banner Placement ID 3-->
+    <string name="FB_Banner_Ad_PlacemaneId_3">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <!--    Native Banner Placement ID 4-->
+    <string name="FB_Banner_Ad_PlacemaneId_4">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <!--    Native Banner Placement ID 5-->
+    <string name="FB_Banner_Ad_PlacemaneId_5">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <!--    Interstitial ad Placement ID -->
+    <string name="FB_Interstitial_Ad_PlacemaneId">391833248570597_391848878569034</string>
+    <string name="help_txt">1. Copy Link from any social media.\n2. Paste url in searchbar above.\n3. Click on download button below. \n\n <b>OR</b> \n\n 1. Search anything.\n 2. Click on download button below to   download.</string>
+    <string name="socialtxt">Which websites are you looking to\n download videos from?</string>
+    <string name="turn_on_now">Turn On Now</string>
+
+
+</resources>
